@@ -9,4 +9,5 @@ Curso na Alura - Praticando CSS: Grid e Flexbox
 
 Projeto responsivo praticando com Flexbox e Grid, com base no mobile-first.
 
+<img src="culturama.png" alt="Culturama">
 </div>
